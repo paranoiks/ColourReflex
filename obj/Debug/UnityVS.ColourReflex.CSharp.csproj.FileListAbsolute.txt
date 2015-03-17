@@ -1,0 +1,11 @@
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Programming\Unity\ColourReflex\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Programming\Unity\ColourReflex\obj\Debug\UnityVS.ColourReflex.CSharp.csprojResolveAssemblyReference.cache
+D:\Programming\Unity\ColourReflex\obj\Debug\Assembly-CSharp.dll
+D:\Programming\Unity\ColourReflex\obj\Debug\Assembly-CSharp.pdb
