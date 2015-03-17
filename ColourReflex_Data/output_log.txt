@@ -1,0 +1,34 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7400M Series (ID=0x6760)
+    Vendor:   ATI
+    VRAM:     1015 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\IFacebook.dll (this message is harmless)
+Loading D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\IFacebook.dll into Unity Child Domain
+- Completed reload, in  0.336 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Programming\Unity\ColourReflex\ColourReflex_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 6.866445 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 1.513600 ms (FindLiveObjects: 0.014666 ms CreateObjectMapping: 0.021022 ms MarkObjects: 0.222933 ms  DeleteObjects: 0.013688 ms)
+
+UnloadTime: 0.662444 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 203.
+Total: 1.208533 ms (FindLiveObjects: 0.015155 ms CreateObjectMapping: 0.020533 ms MarkObjects: 0.235155 ms  DeleteObjects: 0.193111 ms)
+
