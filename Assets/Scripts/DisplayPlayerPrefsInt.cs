@@ -15,6 +15,7 @@ public class DisplayPlayerPrefsInt : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         this.GetComponent<Text>().text = PlayerPrefs.GetInt(Key).ToString();
+        Debug.Log("PlayerPrefsInt");
 	}
 	
 	// Update is called once per frame
