@@ -19,7 +19,7 @@ namespace UnityEditor.FacebookEditor
                 Debug.LogWarning("You didn't specify a Facebook app ID.  Please add one using the Facebook menu in the main Unity editor.");
             }
 
-            if (target == BuildTarget.iOS)
+            if (target == BuildTarget.iPhone)
             {
                 UnityEditor.XCodeEditor.XCProject project = new UnityEditor.XCodeEditor.XCProject(path);
 
