@@ -52,9 +52,6 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="IFacebook">
       <HintPath>Assets\Facebook\Scripts\IFacebook.dll</HintPath>
     </Reference>
@@ -85,6 +82,7 @@
     <Compile Include="Assets\Scripts\MainControllerSwapMode.cs" />
     <Compile Include="Assets\Scripts\MainControllerWackyMode.cs" />
     <Compile Include="Assets\Scripts\MainMenuController.cs" />
+    <Compile Include="Assets\Scripts\ObjectAnimation.cs" />
     <Compile Include="Assets\Scripts\SceneTransitionButton.cs" />
     <Compile Include="Assets\Scripts\Squares.cs" />
   </ItemGroup>
